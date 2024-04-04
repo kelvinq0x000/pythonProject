@@ -1,6 +1,6 @@
 # set variable NAMES as the scientist names data with '|' split
 # MBTI-data.csv is the data of each scientist and their MBTI (UTF-8)
-
+# Create by Kelvin Q
 
 import requests as req
 
